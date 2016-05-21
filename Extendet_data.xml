@@ -1,0 +1,51 @@
+		<Placemark>
+			<name>Polygon 3</name>
+			<description><![CDATA[опис: <br>name: <br>description: <br>title: <br>marker-color: <br>marker-size: <br>marker-symbol: <br>stroke: <br>stroke-width: <br>stroke-opacity: <br>fill: <br>fill-opacity: ]]></description>
+			<styleUrl>#poly-000000-1-77</styleUrl>
+			<ExtendedData>
+				<Data name='опис'>
+					<value></value>
+				</Data>
+				<Data name='name'>
+					<value></value>
+				</Data>
+				<Data name='description'>
+					<value></value>
+				</Data>
+				<Data name='title'>
+					<value></value>
+				</Data>
+				<Data name='marker-color'>
+					<value></value>
+				</Data>
+				<Data name='marker-size'>
+					<value></value>
+				</Data>
+				<Data name='marker-symbol'>
+					<value></value>
+				</Data>
+				<Data name='stroke'>
+					<value></value>
+				</Data>
+				<Data name='stroke-width'>
+					<value></value>
+				</Data>
+				<Data name='stroke-opacity'>
+					<value></value>
+				</Data>
+				<Data name='fill'>
+					<value></value>
+				</Data>
+				<Data name='fill-opacity'>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>23.9451,49.89,0.0 23.9451,49.88,0.0 23.95765,49.88,0.0 23.95765,49.89,0.0 23.9451,49.89,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
